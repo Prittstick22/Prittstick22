@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prittstick22 - Dev
-- 👀 I’m interested in Computer Science, programming and Brazilian Jiu Jitsu
-- 🌱 I’m currently learning Python, Java, PHP and C++
+- 👀 I’m interested in Computer Science and programming
+- 🌱 I’m currently learning Python, Java, React, Angular, Blazor, C# and more
 
 <!---
 Prittstick22/Prittstick22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
